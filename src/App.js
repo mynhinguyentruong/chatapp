@@ -50,4 +50,10 @@ function SignIn() {
   )
 }
 
+function SignOut() {
+  return auth.currentUser && (
+    <button onClick={() => auth.signOut()}>SignOut</button>
+  )
+}
+
 export default App;
