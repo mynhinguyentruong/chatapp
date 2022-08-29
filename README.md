@@ -2,9 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  
 
   <h3 align="center">Chat App</h3>
 
@@ -168,7 +166,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Nhi Nguyen - [@highfunctioning.sociopathh](https://www.instagram.com/highfunctioning.sociopathh/) - nhi.nguyen27@outlook.com
 
-Project Link: [View Code On Github](https://github.com/mynhinguyentruong/chatapp)
+Project Link: [View Code On Github](https://github.com/mynhinguyentruong/chatapp/tree/main/src)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
